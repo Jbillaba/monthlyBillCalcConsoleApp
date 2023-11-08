@@ -1,0 +1,15 @@
+/home/jbillalba/monthlyBillCalc/bin/Debug/net6.0/monthlyBillCalc
+/home/jbillalba/monthlyBillCalc/bin/Debug/net6.0/monthlyBillCalc.deps.json
+/home/jbillalba/monthlyBillCalc/bin/Debug/net6.0/monthlyBillCalc.runtimeconfig.json
+/home/jbillalba/monthlyBillCalc/bin/Debug/net6.0/monthlyBillCalc.dll
+/home/jbillalba/monthlyBillCalc/bin/Debug/net6.0/monthlyBillCalc.pdb
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/monthlyBillCalc.csproj.AssemblyReference.cache
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/monthlyBillCalc.GeneratedMSBuildEditorConfig.editorconfig
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/monthlyBillCalc.AssemblyInfoInputs.cache
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/monthlyBillCalc.AssemblyInfo.cs
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/monthlyBillCalc.csproj.CoreCompileInputs.cache
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/monthlyBillCalc.dll
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/refint/monthlyBillCalc.dll
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/monthlyBillCalc.pdb
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/monthlyBillCalc.genruntimeconfig.cache
+/home/jbillalba/monthlyBillCalc/obj/Debug/net6.0/ref/monthlyBillCalc.dll
