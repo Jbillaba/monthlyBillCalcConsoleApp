@@ -1,10 +1,4 @@
-﻿// program checklist 
-// make a dictionary of objs with name of bill as lock and value as key
-// print the dictionary 
-// add it up to make a sum and show total monthly bill
-// make a txt file showing this 
-
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System;
 using System.Linq;
 using System.Threading;
